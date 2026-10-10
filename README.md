@@ -17,7 +17,7 @@ No AI integration. The focus is on security and solid backend design.
  
 Think of a simplified Google Drive without the editor. Users create folders, upload files, and share them with other people at different access levels.
  
-Planned features:
+Features:
  
 - User registration and login with secure password storage and JWT tokens
 - Folders and files with an owner
